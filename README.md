@@ -6,7 +6,7 @@
 
 ![](./screen-shots/webpageSS.jpeg)
 
-[Click Here](https://jovial-fairy-fb9ca8.netlify.app/)
+[Click Here](https://ritesh-developer-landing-page.netlify.app/)
 
 # ![](https://img.shields.io/badge/-Technologies%20Used-blue)
 ```
